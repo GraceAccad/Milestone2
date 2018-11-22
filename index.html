@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LDB</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="script.js"></script>
+	<link rel="stylesheet" type="text/css" href="css\essentials.css">
+	<link rel="stylesheet" type="text/css" href="css\style.css">
+	<link rel="stylesheet/less" type="text/css" href="css\style.less">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.0.0/less.min.js" ></script>
+</head>
+<body>
+	<div id="sidebar"></div>
+	<div class="content">
+		<div id="1" name="Home" class="section">
+			<div class="topbar-left">
+				<h1 class="logo"><a href="index.html">LDB</a></h1>
+			</div>
+			<div class="topbar-right">
+				<a href="contact.html"><button class="contact-us">Contact us</button></a>
+			</div>
+			<h1 class="title">LIPID<br>DATA BANK</h1>
+			<h2>Lorem ipsum dolor sit.</h2>
+			<a href="search.html"><button class="title">Search</button></a>
+		</div>
+		<!-- <div> -->
+			<div id="2" name="About" class="section variable">
+				<div class="about section variable" style="padding-top:2vw">
+					<div class="row" style="padding:2% 0%">
+						<div  class="col-sm-4 col-md-push-8">
+							<button class="placeholder-button left"></button>
+						</div>
+						<div class="col-sm-8 col-md-pull-4">
+							<h2 class="about left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h2>
+							<a href=""><button class="learn-more" style="float:left">Learn more</button></a>
+						</div>
+					</div>
+					<div class="row" style="padding-top:2%">
+						<div class="col-sm-4">
+							<button class="placeholder-button"></button>
+						</div>
+						<div class="col-sm-8">
+							<h2 class="about">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h2>
+							<a href=""><button class="learn-more" style="float:right">Learn more</button></a>
+						</div>
+					</div>
+				</div>
+			</div><!-- 
+			<div id="3" name="Statistics" class="section diff" style="margin:0">
+				<div style="float:left;width:32%;padding-top:4vw;position:relative;">
+					<span id="myTargetElement" style="color:#F2F2F2;font-family:Raleway-v4020 Light;font-size:10vw;margin:10vw 0vw 1vw 5vw">0</span>
+				</div>
+				<div style="float:left;width:50%;padding-top:4vw;margin-top:5.3vw;position:relative;">
+					<h2 style="color:#F2F2F2;"> lipids are found in our database.</h2>
+				</div>
+			</div> -->
+		<!-- </div> -->
+
+
+		<!-- 
+		<div id="search" name="3" class="section">
+		</div>
+		<div id="help" name="4" class="section">
+		</div> -->
+
+		<div id="footer"></div>
+	</div>
+
+	<script type="text/javascript">
+		var height=window.innerHeight;
+		$(".section").css('height',height);
+		$(".short").css('height','24vw');
+		$(".long").css('height','74vw');
+		$(".variable").css('height','auto');
+	</script>
+
+	<script type="text/javascript">
+		function animate() {
+			var options = {
+			  useEasing: false, 
+			  useGrouping: true, 
+			  separator: ',', 
+			  decimal: '.', 
+			};
+			var demo = new CountUp('myTargetElement', 0, 4444, 0, 2, options);
+			if (!demo.error) {
+			  demo.start();
+			} else {
+			  console.error(demo.error);
+			}
+		}
+
+		var g_pieChartAnimated=false;
+
+		$(document).scroll(function() {
+		  //Basically your position in the page
+		  var x = $(this).scrollTop();
+		  //How far down (in pixels) you want the user to be when the effect to starts, eg. 500
+		  var y = 850;
+		  if (!g_pieChartAnimated && (x > y)) {
+		      g_pieChartAnimated = true;
+		      // alert('animates')
+		      animate();
+		  }
+		});
+	</script>
+</body>
+</html>

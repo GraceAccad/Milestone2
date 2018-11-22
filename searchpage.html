@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Search LDB</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="js\jquery.min.js"></script>
+	<script src="script.js"></script>
+	<link rel="stylesheet" type="text/css" href="css\essentials.css">
+	<link rel="stylesheet" type="text/css" href="css\searchstyle.css">
+</head>
+<body>
+	<div id="sidebar"></div>
+	<div id="topbar">
+		<div class="topbar-left">
+			<h1 class="logo"><a href="index.html">LDB</a></h1>
+		</div>
+		<div class="topbar-right">
+			<a href="contact.html"><button class="contact-us">Contact us</button></a>
+		</div>
+	</div>
+	<div class="content">
+		<form>
+			<div id="1" name="Search" class="section short">
+				<h1 class="title">Search</h1>
+				<div class="search-wrapper">
+					<input class="search" type="search" name="query" placeholder="Search">
+					<button type="submit" class="submit">Submit</button>
+				</div>
+			</div>
+			<div id="2" name="Filters" class="section">
+				<h2>Filter your results:</h2>
+				<h2 class="filter-category">Category 1:</h2>
+				<div class="filter-category">
+					<!-- <input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid">
+					<label class="filter-label" for="filterid">Hydrophobic</label> -->
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid1">
+					<label class="filter-label" for="filterid1">Adipose</label>
+					<!-- <input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid2">
+					<label class="filter-label" for="filterid2">Acidic</label>
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid3">
+					<label class="filter-label" for="filterid3">Basic</label> -->
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid12">
+					<label class="filter-label" for="filterid12">Kay</label>
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid13">
+					<label class="filter-label" for="filterid13">Tasty</label>
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid14">
+					<label class="filter-label" for="filterid14">smol</label>
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid15">
+					<label class="filter-label" for="filterid15">Thicc</label>
+					<!-- <input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid4">
+					<label class="filter-label" for="filterid4">Operatic</label> -->
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid5">
+					<label class="filter-label" for="filterid5">Curvy</label>
+					<!-- <input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid6">
+					<label class="filter-label" for="filterid6">Hydrophilic</label> -->
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid7">
+					<label class="filter-label" for="filterid7">Iconic</label>
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid8">
+					<label class="filter-label" for="filterid8">Transmembrane</label>
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid9">
+					<label class="filter-label" for="filterid9">Jiggly</label>
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid10">
+					<label class="filter-label" for="filterid10">Round</label>
+					<input type="checkbox" class="checkbox" name="filter1" value="filter1" id="filterid11">
+					<label class="filter-label" for="filterid11">Shiny</label>
+				</div>
+				<h2 class="filter-category">Category 2:</h2>
+				<div class="filter-category">
+					<div class="slider-wrapper">
+						<h4>Filter 1:</h4>
+						<input type="range" name="ageInputName" id="ageInputId" value="24" min="1" max="100" oninput="ageOutputId.value = ageInputId.value">
+    					<output class="slider-output" name="ageOutputName" id="ageOutputId">24</output>
+					</div>
+					<!-- <div class="slider-wrapper">
+						<h4>HHHHHHHHHHHSKSKSS sk:</h4>
+						<input type="range" name="ageInputName" id="ageInputId" value="24" min="1" max="100" oninput="ageOutputId.value = ageInputId.value">
+    					<output class="slider-output" name="ageOutputName" id="ageOutputId">24</output>
+					</div>
+					<div class="slider-wrapper">
+						<h4>ssjssj sjsjs 1:</h4>
+						<input type="range" name="ageInputName" id="ageInputId" value="24" min="1" max="100" oninput="ageOutputId.value = ageInputId.value">
+    					<output class="slider-output" name="ageOutputName" id="ageOutputId">24</output>
+					</div> -->
+				</div>
+			</div>
+		</form>
+		<div id="footer"></div>
+	</div>
+
+	<script type="text/javascript">
+		var height=window.innerHeight;
+		$(".section").css('height',height);
+		$(".short").css('height','24vw');
+		$(".long").css('height','74vw');
+		$(".variable").css('height','auto');
+	</script>
+
+	<script type="text/javascript">
+		$('input[type="range"]').on("change mousemove", function () {
+		    var val = ($(this).val() - $(this).attr('min')) / ($(this).attr('max') - $(this).attr('min'));
+		    
+		    $(this).css('background-image',
+		                '-webkit-gradient(linear, left top, right top, '
+		                + 'color-stop(' + val + ', #1C1C1C), '
+		                + 'color-stop(' + val + ', #C5C5C5)'
+		                + ')'
+		                );
+		});
+	</script>
+</body>
+</html>

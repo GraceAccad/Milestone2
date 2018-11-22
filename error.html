@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Error 404</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="js\jquery.min.js"></script>
+	<script src="script.js"></script>
+	<link rel="stylesheet" type="text/css" href="css\essentials.css">
+	<link rel="stylesheet" type="text/css" href="css\errorstyle.css">
+</head>
+<body>
+	<div id="sidebar"></div>
+	<div id="topbar">
+		<div class="topbar-left">
+			<h1 class="logo"><a href="index.html">LDB</a></h1>
+		</div>
+		<div class="topbar-right">
+			<a href="contact.html"><button class="contact-us">Contact us</button></a>
+		</div>
+	</div>
+	<div class="content">
+		<div id="1" name="Error" class="section">
+			<h1 class="title">Error 404</h1>
+			<h2>Sorry, the page you are looking for couldn't be found.</h2>
+			<a href="index.html"><button class="actions">Return to home page</button></a>
+			<a href="#2"><button class="actions">More info</button></a>
+		</div>
+		<div id="2" name="More info" class="section">
+			<h2 class="about">We're sorry for the inconvenience, but it appears that the page you are looking for has either been removed/moved to a new place, or never existed in the first place. Please make sure the URL you entered is correct. If you believe there has been a mistake, or if you need assistance, do not hesitate to contact us. </h2>
+			<a href="contact.html"><button class="actions">Contact us</button></a>
+			<a href="help.html"><button class="actions">Help</button></a>
+		</div>
+		<div id="footer"></div>
+	</div>
+
+	<script type="text/javascript">
+		var height=window.innerHeight;
+		$(".section").css('height',height);
+		$(".short").css('height','24vw');
+		$(".long").css('height','74vw');
+		$(".variable").css('height','auto');
+	</script>
+</body>
+</html>

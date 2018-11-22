@@ -1,0 +1,78 @@
+Organism,Exact Mass: m/z,Formula,Reference Figure #,Modification-Gain,Modification-Loss,Reference Paper,DOI,Data availability,Lipid ID
+Klebsiella pneumoniae,1955.29,C101H190N3O28P2,1,"Ara4N, PO3",,"Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx234,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1744.27,C96H180N2O22P,2,,"Ara4N, PO3","Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx235,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1824.24,C96H181N2O25P2,3,,Ara4N,"Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx236,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1596.03,C82H153N2O23P2,4,,"Ara4N, 3?-oxo-acyl group","Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx237,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1580.04,C82H153N2O22P2,5,,"Ara4N, 3?-acyl group","Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx238,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1727.09,C87H162N3O26P2,6,,3?-oxo-acyl group,"Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx239,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1971.3,C101H190N3O29P2,7,,,"Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx240,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1840.24,C96H181N2O26P2,8,,Ara4N,"Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx241,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1760.27,C96H180N2O23P,9,,"Ara4N, PO3","Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx242,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1743.09,ÿC87H162N3O27P2,10,,3?-oxo-acyl group,"Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx243,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1612.03,C82H153N2O24P2,11,,"Ara4N,  3?-oxo-acyl group","Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx244,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1596.03,C82H153N2O23P2,12,,"Ara4N, 3?-acyl group","Structural modification of LPS in colistin-resistant, KPC-producing Klebsiella pneumoniae",ÿ10.1093/jac/dkx245,Supplementary Material (Figures S1 to S4),??????
+Klebsiella pneumoniae,1796.21,C94H177N2O25P2,13,,,"Deciphering tissue-induced Klebsiella pneumoniae
+lipid A structure",10.1073/pnas.1508820112,Online Article,??????
+Klebsiella pneumoniae,1850.26,C98H183N2O25P2,14,"1x C14:0, 1x C16:0 ",,"Deciphering tissue-induced Klebsiella pneumoniae
+lipid A structure",10.1073/pnas.1508820113,Online Article,??????
+Klebsiella pneumoniae,1866.25,C98H183N2O26P2,15,"1x C14:0(3-OH), 1x C16:0 ",,"Deciphering tissue-induced Klebsiella pneumoniae
+lipid A structure",10.1073/pnas.1508820114,Online Article,??????
+Klebsiella pneumoniae,1840.24,C96H181N2O26P2,16,1x C14:0(3-OH) ,1x C16:0 ,"Deciphering tissue-induced Klebsiella pneumoniae
+lipid A structure",10.1073/pnas.1508820115,Online Article,??????
+Klebsiella pneumoniae,1824.24,C96H181N2O25P2,17,,1x C14:0(3-OH) ,"Deciphering tissue-induced Klebsiella pneumoniae
+lipid A structure",10.1073/pnas.1508820116,Online Article,??????
+Klebsiella pneumoniae,1403.85,C68H129N2O23P2,18,,,"Deciphering tissue-induced Klebsiella pneumoniae
+lipid A structure",10.1073/pnas.1508820117,Supplementary Material,??????
+Klebsiella pneumoniae,2063.48,C112H212N2O26P2,19,,,"Deciphering tissue-induced Klebsiella pneumoniae
+lipid A structure",10.1073/pnas.1508820118,Supplementary Material,??????
+Klebsiella pneumoniae,1360.83,C66H126N2O22P2,20,,,"Deciphering tissue-induced Klebsiella pneumoniae
+lipid A structure",10.1073/pnas.1508820119,Supplementary Material,??????
+Klebsiella pneumoniae,1822.23,C96H179N2O25P2,21,,,Secondary Acylation of Klebsiella pneumoniae Lipopolysaccharide Contributes to Sensitivity to Antibacterial Peptides,10.1074/jbc.M701454200,Online Article,??????
+Klebsiella pneumoniae,1794.2,C94H175N2O25P2,22,,1x C12:1,Secondary Acylation of Klebsiella pneumoniae Lipopolysaccharide Contributes to Sensitivity to Antibacterial Peptides,10.1074/jbc.M701454201,Online Article,??????
+Klebsiella pneumoniae,1612.03,C82H153N2O24P2,23,,1x C14:0(3-OH) ,Secondary Acylation of Klebsiella pneumoniae Lipopolysaccharide Contributes to Sensitivity to Antibacterial Peptides,10.1074/jbc.M701454202,Online Article,??????
+Klebsiella pneumoniae,1584,C80H149N2O24P2,24,,1x C12:1,Secondary Acylation of Klebsiella pneumoniae Lipopolysaccharide Contributes to Sensitivity to Antibacterial Peptides,10.1074/jbc.M701454203,Online Article,??????
+Unspecified,1404.854,C68H130N2O23P2,,,,,,,LMSL01040001
+Unspecified,1324.8876,C68H129N2O20P,,,,,,,LMSL01040002
+Unspecified,1558.9897,C78H148N2O24P2,,,,,,,LMSL01050001
+Unspecified,1809.2558,C96H182N2O24P2,,,,,,,LMSL01060001
+Unspecified,2237.336,C110H202N2O39P2,,,,,,,LMSL02000001
+Unspecified,2027.1375,C96H176N2O38P2,,,,,,,LMSL02000002
+Unspecified,1844.9706,C84H154N2O37P2,,,,,,,LMSL02000003
+Unspecified,946.6957,C52H98O14,,,,,,,LMSL03000001
+Unspecified,974.727,C54H102O14,,,,,,,LMSL03000002
+Unspecified,988.7426,C55H104O14,,,,,,,LMSL03000003
+Unspecified,1002.7583,C56H106O14,,,,,,,LMSL03000004
+Unspecified,930.7007,C52H98O13,,,,,,,LMSL03000005
+Unspecified,944.7164,C53H100O13,,,,,,,LMSL03000006
+Unspecified,958.732,C54H102O13,,,,,,,LMSL03000007
+Unspecified,974.727,C54H102O14,,,,,,,LMSL03000008
+Unspecified,1002.7583,C56H106O14,,,,,,,LMSL03000009
+Unspecified,1016.7739,C57H108O14,,,,,,,LMSL03000010
+Unspecified,1030.7896,C58H110O14,,,,,,,LMSL03000011
+Unspecified,958.732,C54H102O13,,,,,,,LMSL03000012
+Unspecified,972.7477,C55H104O13,,,,,,,LMSL03000013
+Unspecified,986.7633,C56H106O13,,,,,,,LMSL03000014
+Unspecified,988.7426,C55H104O14,,,,,,,LMSL03000015
+Unspecified,1016.7739,C57H108O14,,,,,,,LMSL03000016
+Unspecified,1030.7896,C58H110O14,,,,,,,LMSL03000017
+Unspecified,1044.8052,C59H112O14,,,,,,,LMSL03000018
+Unspecified,972.7477,C55H104O13,,,,,,,LMSL03000019
+Unspecified,986.7633,C56H106O13,,,,,,,LMSL03000020
+Unspecified,1000.779,C57H108O13,,,,,,,LMSL03000021
+Unspecified,2029.7653,C128H236O16,,,,,,,LMSL03000022
+Unspecified,2057.7966,C130H240O16,,,,,,,LMSL03000023
+Unspecified,2071.8123,C131H242O16,,,,,,,LMSL03000024
+Unspecified,2085.8279,C132H244O16,,,,,,,LMSL03000025
+Unspecified,2075.8072,C130H242O17,,,,,,,LMSL03000026
+Unspecified,2057.7966,C130H240O16,,,,,,,LMSL03000027
+Unspecified,2085.8279,C132H244O16,,,,,,,LMSL03000028
+Unspecified,2099.8436,C133H246O16,,,,,,,LMSL03000029
+Unspecified,2113.8592,C134H248O16,,,,,,,LMSL03000030
+Unspecified,2103.8385,C132H246O17,,,,,,,LMSL03000031
+Unspecified,2071.8123,C131H242O16,,,,,,,LMSL03000032
+Unspecified,2099.8436,C133H246O16,,,,,,,LMSL03000033
+Unspecified,2113.8592,C134H248O16,,,,,,,LMSL03000034
+Unspecified,2127.8749,C135H250O16,,,,,,,LMSL03000035
+Unspecified,2117.8542,C133H248O17,,,,,,,LMSL03000036
+Unspecified,2085.8279,C132H244O16,,,,,,,LMSL03000037
+Unspecified,2113.8592,C134H248O16,,,,,,,LMSL03000038

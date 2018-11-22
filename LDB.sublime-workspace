@@ -1,0 +1,1497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"S",
+				"Semibold"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"ageO",
+				"ageOutputId"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"F",
+				"F2F2F2"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"hide",
+				"hideFilters"
+			],
+			[
+				"type",
+				"typeChange"
+			],
+			[
+				"nabar",
+				"navbar"
+			],
+			[
+				"cl",
+				"closeSearch"
+			],
+			[
+				"nav-s",
+				"nav-search-bar"
+			],
+			[
+				"nav-",
+				"nav-clear"
+			],
+			[
+				"nac",
+				"nav-search-bar"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"seac",
+				"search-icon"
+			],
+			[
+				"tetx-a",
+				"text-align"
+			],
+			[
+				"Cuff",
+				"CuffcompareOutput"
+			],
+			[
+				"D",
+				"Drosophila_melanogaster_Ensembl_BDGP5"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"FF",
+				"FF1B41"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"ff",
+				"FF1B41"
+			],
+			[
+				"R",
+				"RawData"
+			],
+			[
+				"def",
+				"default-navbar"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"button",
+				"button-section"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"sec",
+				"sections"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"script",
+				"scriptActive"
+			],
+			[
+				"search",
+				"search-wrapper"
+			],
+			[
+				"no",
+				"noscript\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"are",
+				"areChecked"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"de",
+				"delim"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"ref",
+				"refine-pic"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"getElements",
+				"getElementsByClassName"
+			],
+			[
+				"bu",
+				"buttonToggle"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"subm",
+				"submit-pic"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"border-left",
+				"border-left-width"
+			],
+			[
+				"border-lef",
+				"border-left-style"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border-b",
+				"border-bottom-width"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"color",
+				"color-rendering"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"num",
+				"num_mapped_to_chr"
+			],
+			[
+				"p",
+				"path_to_data"
+			],
+			[
+				"M",
+				"MappingOutput"
+			],
+			[
+				"Tri",
+				"TrimmingOutput"
+			],
+			[
+				"o",
+				"o"
+			],
+			[
+				"gz",
+				"gz"
+			],
+			[
+				"my",
+				"my_info"
+			],
+			[
+				"t",
+				"temp"
+			],
+			[
+				"m",
+				"my_info"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"read",
+				"readthrough"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"buffer",
+				"buffersize"
+			],
+			[
+				"buffe",
+				"buffersize"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4671,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/style.css",
+			"settings":
+			{
+				"buffer_size": 2345,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/style.less",
+			"settings":
+			{
+				"buffer_size": 1288,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "help.html",
+			"settings":
+			{
+				"buffer_size": 5508,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/helpstyle.css",
+			"settings":
+			{
+				"buffer_size": 1122,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 2931,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/contactstyle.css",
+			"settings":
+			{
+				"buffer_size": 2626,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "error.html",
+			"settings":
+			{
+				"buffer_size": 1842,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/errorstyle.css",
+			"settings":
+			{
+				"buffer_size": 986,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sidebar.html",
+			"settings":
+			{
+				"buffer_size": 3777,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lipid.html",
+			"settings":
+			{
+				"buffer_size": 9640,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/lipidstyle.css",
+			"settings":
+			{
+				"buffer_size": 553,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/essentials.css",
+			"settings":
+			{
+				"buffer_size": 7141,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 1421,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "searchpage.html",
+			"settings":
+			{
+				"buffer_size": 5538,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/searchstyle.css",
+			"settings":
+			{
+				"buffer_size": 5971,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "search.html",
+			"settings":
+			{
+				"buffer_size": 6400,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/searchstyle2.css",
+			"settings":
+			{
+				"buffer_size": 3340,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ryanr/Desktop/script.bash",
+		"/C/xampp/htdocs/LDB/LDB.sublime-project",
+		"/C/Users/ryanr/AppData/Local/Microsoft/Windows/INetCache/IE/ANZ5911R/Activate_Control_Mode[1].exe",
+		"/C/Users/ryanr/Desktop/stylesheet.css",
+		"/C/Users/ryanr/Google Drive/Uni/Year 2/Fall 2017/BIF 375/Project/Code/public_html/css/header-footer.css",
+		"/C/Users/ryanr/Desktop/RNASeq/edgeR/edgeR.r",
+		"/C/xampp/htdocs/LDB/CSS/hamburgers.css",
+		"/C/xampp/htdocs/Website2.0/CSS/style.css",
+		"/C/xampp/htdocs/Website2.0/navbar.html",
+		"/C/xampp/htdocs/LDB/CSS/style.less",
+		"/C/xampp/htdocs/LDB/js/countUp.js",
+		"/C/xampp/htdocs/LDB/footer.html",
+		"/C/xampp/htdocs/Website2.0/comets.sublime-project",
+		"/C/xampp/htdocs/Website2.0/comets.sublime-workspace",
+		"/C/xampp/htdocs/Website2.0/CSS/hamburgers.css",
+		"/C/Users/ryanr/Desktop/hamburgers.css",
+		"/C/xampp/htdocs/Website2.0/index.html",
+		"/C/xampp/htdocs/Website2.0/footer.html",
+		"/C/xampp/htdocs/LDB/CSS/searchstyle.css",
+		"/C/Users/ryanr/Desktop/script2.bash",
+		"/C/xampp/htdocs/Website/index.html",
+		"/C/xampp/htdocs/Website/searchpage.html",
+		"/C/xampp/htdocs/Website2.0/searchpage.html",
+		"/C/Users/ryanr/Google Drive/Uni/Spring 2018/BIF 425/Exams/Project 1/projectscript.bash",
+		"/C/Users/ryanr/Desktop/Website.sublime-project",
+		"/C/Users/ryanr/Desktop/Website.sublime-workspace",
+		"/C/xampp/htdocs/LDB/CSS/contactstyle.css",
+		"/C/xampp/htdocs/LDB/contact.html",
+		"/C/xampp/htdocs/LDB/searchpage.html",
+		"/C/xampp/htdocs/LDB/CSS/errorstyle.css",
+		"/C/xampp/htdocs/LDB/error.html",
+		"/C/xampp/htdocs/LDB/help.html",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/Website/CSS/searchstyle.css",
+		"/C/Users/ryanr/Desktop/style.css",
+		"/C/xampp/htdocs/LDB/index.html",
+		"/C/xampp/htdocs/LDB/CSS/style.css",
+		"/C/Users/ryanr/Desktop/LDB/CSS/style.css",
+		"/C/Users/ryanr/Desktop/LDB/buttons.html",
+		"/C/Users/ryanr/Desktop/LDB/index.html",
+		"/C/xampp/htdocs/Website/navbar.html",
+		"/C/Users/ryanr/Downloads/GSE32038_series_matrix.txt",
+		"/C/xampp/htdocs/Website/CSS/style.css",
+		"/C/xampp/htdocs/Website/website.sublime-project",
+		"/C/xampp/htdocs/Website/website.sublime-workspace",
+		"/C/xampp/htdocs/Website/footer.html",
+		"/C/Users/ryanr/Desktop/Website/navbar.html",
+		"/C/xampp/htdocs/TempWebsite/navbar.html",
+		"/C/xampp/htdocs/TempWebsite/CSS/style.css",
+		"/C/xampp/htdocs/TempWebsite/index.html",
+		"/C/xampp/htdocs/TempWebsite/CSS/overlay.css",
+		"/C/Users/ryanr/Downloads/c/public_html/mystyle.css",
+		"/C/Users/ryanr/Desktop/CSS/style.css",
+		"/C/Users/ryanr/Desktop/navbar.html",
+		"/C/Users/ryanr/Desktop/navbar",
+		"/C/Users/ryanr/Downloads/c/public_html/index.php",
+		"/C/xampp/htdocs/Website/CSS/resultsstyle.css",
+		"/C/Users/ryanr/Downloads/c/public_html/search.php",
+		"/C/xampp/htdocs/Website/resultspage.html",
+		"/C/Users/ryanr/Desktop/Website/CSS/resultsstyle.css",
+		"/C/Users/ryanr/Desktop/Website/resultspage.html",
+		"/C/Users/ryanr/Desktop/Website/CSS/searchstyle.css",
+		"/C/Users/ryanr/Desktop/Website/searchpage.html",
+		"/C/Users/ryanr/Desktop/Website/CSS/style.css",
+		"/C/Users/ryanr/Desktop/Website/footer.html",
+		"/C/Users/ryanr/Desktop/Website/index.html",
+		"/C/Users/ryanr/Downloads/c/public_html/links.html",
+		"/C/Users/ryanr/Downloads/c/public_html/css/header-footer.css",
+		"/C/Users/ryanr/Downloads/c/public_html/css/gridcss.css",
+		"/C/Users/ryanr/Desktop/index",
+		"/C/Users/ryanr/Desktop/g",
+		"/C/Users/ryanr/Desktop/script",
+		"/C/Users/ryanr/Desktop/test.R",
+		"/C/Users/ryanr/Desktop/gg.r",
+		"/C/Users/ryanr/Desktop/p/script.R",
+		"/C/Users/ryanr/Desktop/Sons_exome_fastq_file_1.vcf",
+		"/C/Users/ryanr/Desktop/biomaRt.r",
+		"/C/Users/ryanr/Desktop/projectscript.bash",
+		"/C/Users/ryanr/Desktop/info.config",
+		"/C/Users/ryanr/Desktop/test.bash",
+		"/C/Users/ryanr/Desktop/gg.sh",
+		"/C/Users/ryanr/Desktop/bloodpcr1 cmds.sh",
+		"/C/Users/ryanr/Desktop/common_startup_functions.sh",
+		"/C/Users/ryanr/Desktop/run.sh",
+		"/C/Users/ryanr/Desktop/common_startup.sh",
+		"/C/Users/ryanr/Desktop/project.bash",
+		"/C/Users/ryanr/Desktop/test.sh",
+		"/C/Users/ryanr/Desktop/trimming",
+		"/C/Users/ryanr/Google Drive/Uni/Spring 2018/BIF 425/Scripts/micro.r",
+		"/C/Users/ryanr/Desktop/script - Copy.bash",
+		"/C/Users/ryanr/Desktop/micro.r",
+		"/C/Users/ryanr/Desktop/s2 - Copy.bash",
+		"/C/Users/ryanr/Desktop/s.bash",
+		"/C/Users/ryanr/Desktop/analysis_micro.r",
+		"/C/Users/ryanr/Desktop/8-3-18.txt",
+		"/C/Users/ryanr/Desktop/13-3-18.txt",
+		"/C/Users/ryanr/Desktop/p/brain.DE.log2.ratios.txt",
+		"/F/New Text Document.txt",
+		"/C/Users/ryanr/Desktop/ch.txt",
+		"/C/Users/ryanr/Desktop/ch.txt.txt",
+		"/C/Users/ryanr/Desktop/New folder/.bashrc",
+		"/C/Users/ryanr/Desktop/ - Copy.bashrc",
+		"/C/Users/ryanr/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/ryan/.bashrc",
+		"/C/Users/ryanr/Downloads/uniprot-proteome%3AUP000008712.fasta",
+		"/C/Users/ryanr/Downloads/uniprot-proteome%3AUP000000625.fasta",
+		"/C/Users/ryanr/Google Drive/Uni/Spring 2018/BIF 415/Practicals/Extra/Sequences.fasta",
+		"/C/Users/ryanr/Desktop/practical/UNION.cdt",
+		"/C/Users/ryanr/Desktop/practical/UNION.txt",
+		"/C/Users/ryanr/Desktop/practical/brain.DE.log2.ratios.txt",
+		"/C/Users/ryanr/Desktop/file 1.txt",
+		"/C/Users/ryanr/Desktop/file 2.txt",
+		"/C/Users/ryanr/Desktop/info.txt",
+		"/C/Users/ryanr/Downloads/Homo_sapiens_LRRK2_sequence.fa",
+		"/C/Users/ryanr/Downloads/Homo_sapiens_LRRK2_sequence (1).fa",
+		"/C/Users/ryanr/Desktop/test.pl",
+		"/C/Users/ryanr/Desktop/test.html",
+		"/C/Users/ryanr/Desktop/test.txt",
+		"/C/Users/ryanr/Desktop/text.txt",
+		"/C/Users/ryanr/Desktop/f.sh",
+		"/C/Users/ryanr/Desktop/f.bash",
+		"/C/Users/ryanr/Desktop/lines.txt",
+		"/C/Users/ryanr/Desktop/letters.txt",
+		"/C/Users/ryanr/Desktop/con.txt",
+		"/C/Users/ryanr/Desktop/con",
+		"/C/Users/ryanr/Desktop/history.txt",
+		"/C/perl/ex2-4.pl",
+		"/C/Users/ryanr/Desktop/file.txt",
+		"/C/Users/ryanr/Desktop/MicroarrayFiles/HG_U95Av2_anno.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"30vw",
+			"phosphate",
+			"<h1 style=\"margin:4vw 0 0 1vw;border-bottom:solid #1A1A1C 2px;display:inline-block;padding:0 2vw 0 1vw\">",
+			"modifications",
+			"Lipid A -disaccharide-1-p",
+			"Lipid A -disaccharide-1-P",
+			"Lipid A -disaccharide-1-p",
+			"Lipid A -disaccharide-1-P",
+			"Lipid A -disaccharide-1-p",
+			"Lipid A -disaccharide-1-P",
+			"evidence",
+			"Evidence",
+			"modifications",
+			"1vw",
+			"isplay:block",
+			"Lipid A",
+			"35vw",
+			"50vw",
+			"margin-right:10px;\n",
+			"textarea",
+			"scrollbar",
+			"3s",
+			"2",
+			".",
+			"radius",
+			"}",
+			"\n}",
+			"}\n",
+			"radius",
+			"border-radius:2.5vw;",
+			"yellowgreen",
+			" style=\"display:block;\"",
+			"clear:none",
+			"1.2",
+			"elmnt",
+			"Select car:",
+			"B7B7B7",
+			"1C1C1C",
+			"8",
+			"opacity",
+			"15",
+			"regular",
+			"raleway-v4020-",
+			"opentype",
+			"raleway-v4020 ",
+			"bold",
+			"black",
+			"thin",
+			";height:23vw;wid",
+			"eight:23v",
+			"div style=\"clear:both;height:23vw;width:100%;padding-top:2vw\">",
+			"15vw",
+			"button style",
+			"2vw 3vw",
+			"4vw",
+			"0vw",
+			"font-size:1.8vw;",
+			"2",
+			"4",
+			"searchpage.html",
+			"title",
+			"background-color:cyan;",
+			" Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"consectetur adipiscing elit, ",
+			"margin:5% 10% 0% 10%",
+			"5",
+			" Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"right",
+			"h4",
+			"background-image",
+			"div",
+			"0px",
+			"15px",
+			"9px",
+			"white",
+			"1C1C1C",
+			"242",
+			"1C1C1C",
+			"2",
+			"content",
+			"10",
+			"6",
+			"10",
+			"6",
+			"margin-top",
+			"margin",
+			"cyan",
+			"margin-top:5vw",
+			"F2F2F2",
+			"#",
+			"about",
+			"overf",
+			"@",
+			"2",
+			".3vw;",
+			".3",
+			"19",
+			"cubic-bezier(",
+			"10",
+			"6",
+			"255",
+			"2",
+			"1",
+			"0",
+			"#F2F2F2",
+			"red",
+			"5vw",
+			"1",
+			";\n",
+			"5",
+			"255",
+			"100",
+			"1",
+			".backdrop-blur",
+			"\n.",
+			"2em",
+			"1.1",
+			"'#button-' + i",
+			"1.5",
+			"0.85",
+			"85vw",
+			"1",
+			"1.15",
+			"5vw",
+			"1",
+			"nav-button",
+			"'",
+			"val"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CSS/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2329,
+								2329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1075.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "CSS/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "help.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4371,
+								4371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 59.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "CSS/helpstyle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1804,
+								1804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 415.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "CSS/contactstyle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 167.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "error.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "CSS/errorstyle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "sidebar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "lipid.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6049,
+								6049
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 942.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "CSS/lipidstyle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "CSS/essentials.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3000,
+								1295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 897.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								512
+							],
+							[
+								515,
+								528
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "searchpage.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5538,
+								5538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 55.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "CSS/searchstyle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2420,
+								2420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1155.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "search.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2764,
+								2764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 930.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "CSS/searchstyle2.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LDB.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

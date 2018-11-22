@@ -1,0 +1,111 @@
+<div class="sidebar-container backdrop-blur">
+</div>
+<div class="sidebar">
+	<div class="menu">
+		<h3 class="title">MENU</h3>
+		<div class="links">
+			<a href="index.html"><h3 class="links">Home</h3></a>
+			<a href="search.html"><h3 class="links">Search</h3></a>
+			<a href="contact.html"><h3 class="links">Contact us</h3></a>
+			<a href="help.html"><h3 class="links">Help</h3></a>
+		</div>
+	</div>
+	<div class="nav">
+		<button id="hamburger-button" class="hamburger hamburger--elastic nav-button" type="button" onclick="javascript:menu()" tabindex="0" aria-label="Menu" role="button" aria-controls="navigation">
+			<span class="hamburger-box">
+				<span class="hamburger-inner"></span>
+			</span>
+		</button>
+		<a href="index.html#home"><h1 class="logo nav-text">LDB</h1></a>
+	</div>
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script>
+	var hamburger = document.querySelector(".hamburger");
+	// On click
+	hamburger.addEventListener("click", function() {
+		// Toggle class "is-active"
+		hamburger.classList.toggle("is-active");
+		// Do something else, like open/close menu
+	});
+
+	$(document).ready(function() {
+		function filterPath(string) {
+			return string
+			.replace(/^\//,'')  
+			.replace(/(index|default).[a-zA-Z]{3,4}$/,'')  
+			.replace(/\/$/,'');
+		}
+		$('a[href*=\\#]').each(function() {
+			if ( filterPath(location.pathname) == filterPath(this.pathname)
+			&& location.hostname == this.hostname
+			&& this.hash.replace(/#/,'') ) {
+				var $targetId = $(this.hash), $targetAnchor = $('[id=' + this.hash.slice(1) +']');
+				var $target = $targetId.length ? $targetId : $targetAnchor.length ? $targetAnchor : false;
+				var targetOffset=0;
+				if ($target) {
+					targetOffset = $target.offset().top;
+				}
+				$(document).scroll(function(){
+					var $target = $targetId.length ? $targetId : $targetAnchor.length ? $targetAnchor : false;
+					if ($target) {
+						targetOffset = $target.offset().top;
+					}
+				});
+				$(this).click(function() {
+					$('html, body').animate({scrollTop: targetOffset}, 1000);
+					return false;
+				});
+			}
+		});
+	});
+
+	$(function(){
+	    var sections = {},
+	        _height  = $(window).height(),
+	        i        = 0;
+
+	    $(document).scroll(function(){
+	        var $this   = $(this),
+	            pos     = $this.scrollTop(),
+	            $parent = {};
+
+	            // Grab positions of our sections
+	    $('.section').each(function(){
+    		sections[this.attributes["id"].value] = $(this).offset().top;
+	    });
+
+	        for(i in sections) {
+	        	$parent = $('[name="' + i + '"]').parent();
+	        	if (pos+150 >= sections[i]) {
+	        		$('.button-section').css('background-color', '#1C1C1C');
+	        		$('.button-section').css('border-color', '#1C1C1C');
+	        		$('.button-section').css('margin', '1.3vw 0.3vw 1.3vw 2.3vw');
+	        		$('.button-section').css('padding', '.2vw');
+
+	        		$('#button-' + i).css('background', '#FF1B41');
+	        		// $('#button-' + i).css('margin', '1.15vw 0.15vw 1.15vw 2.15vw');
+	        		// $('#button-' + i).css('padding', '.35vw');
+	        		$('#button-' + i).css('border-color', '#FF1B41');
+	        	} else {
+	        		$('#button-' + i).css('text-decoration', 'none');
+	        	}
+	        }
+	    });
+	});
+
+	function createButtons() {
+		var elements=document.getElementsByClassName('section');
+		var num=elements.length;
+		var html_info="";
+		for (var i=0;i<num;i++) {
+			var index=i+1;
+			var name=elements[i].attributes['name'].value;
+			html_info+='<div class="button-tag"><a href="#'+index+'" id="nav-'+index+'"><button class="button-section" id="button-'+index+'"></button></a><div class="element-'+index+'">'+name+'</div></div>';		
+		}
+		$('#insert').html(html_info);
+	};
+
+	createButtons();
+</script>

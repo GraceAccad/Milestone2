@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact us</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="js\jquery.min.js"></script>
+	<script src="script.js"></script>
+	<link rel="stylesheet" type="text/css" href="css\essentials.css">
+	<link rel="stylesheet" type="text/css" href="css\contactstyle.css">
+</head>
+<body>
+	<div id="sidebar"></div>
+	<div id="topbar">
+		<div class="topbar-left">
+			<h1 class="logo"><a href="index.html">LDB</a></h1>
+		</div>
+	</div>
+	<div class="content">
+		<div id="1" name="Contact us" class="section variable">
+			<h1 class="title">Contact us</h1>
+			<div class="question">
+				<h4 class="question">Have a problem with our website?</h4>
+			</div>
+			<div id="form">
+				<form id="hidden_form">
+					<h2 class="text">Name:</h2>
+					<div class="text-wrapper">
+						<input class="text" type="text" name="name" placeholder="Enter your name">
+					</div>
+					<h2 class="text">Email:</h2>
+					<div class="text-wrapper">
+						<input class="text" type="email" name="email" placeholder="Enter your email">
+					</div>
+					<h2 class="text">Subject:</h2>
+					<div class="text-wrapper">
+						<input class="text" type="text" name="subject" placeholder="Enter your message subject">
+					</div>
+					<h2 class="text">Message:</h2>
+					<div class="text-wrapper textarea">
+						<!-- <input class="text" type="text" name="message" placeholder="Enter your message"> -->
+						<textarea class="text" placeholder="Enter your message"></textarea>
+					</div>
+					
+					<button type="submit" onclick="javascript:closeForm()" class="submit">Submit</button>
+				</form>
+			</div>
+			<h4>Have a complaint or recommendation about the data?<br>Email us at help@lipids.com</h4>
+		</div>
+		<div id="footer"></div>
+	</div>
+
+	<script type="text/javascript">
+			var elements=document.getElementById("hidden_form").children;
+		$(document).ready(function() {
+			$('.question').click(function() {
+				if (css(document.getElementById('form'),'max-height')=='0px') {
+					openForm();					
+				} else {
+					closeForm();
+				}
+			});
+		});
+
+		function openForm() {
+			$('form#hidden_form').css('display','block');
+				setTimeout(function() { $('div#form').css('max-height','70vw'); $('div#form').css('border-top', '.3vw solid #1C1C1C') }, 10);
+				var time=150;
+				for(let i=0; i<elements.length;i++) {
+					setTimeout(function() { elements[i].style.opacity='1'; }, time);
+					time+=50;
+				}
+		};
+
+		function closeForm() {
+			setTimeout(function() { $('div#form').css('max-height','0px'); }, 380);
+			time=0;
+			for(let i=elements.length-1; i>=0;i--) {
+				setTimeout(function() { elements[i].style.opacity='0'; }, time);
+				time+=50;
+			}
+			setTimeout(function() { $('form#hidden_form').css('display','none'); $('div#form').css('border-top', 'none')}, 680);
+		}
+	</script>
+</body>
+</html>
